@@ -19,3 +19,4 @@ dva 首先是一个基于 redux 和 redux-saga 的数据流方案，然后为了
 12. dva redux-actions
 
 ## 视频地址
+[https://yunp.top/p/v/1505](https://yunp.top/p/v/1505)
